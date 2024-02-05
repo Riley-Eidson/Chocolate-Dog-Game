@@ -6,7 +6,7 @@ import {
   
   const dogElem = document.querySelector("[data-dog]")
   const JUMP_SPEED = 0.45
-  const GRAVITY = 0.00015
+  const GRAVITY = 0.00115
   const DOG_FRAME_COUNT = 2
   const FRAME_TIME = 100
   
